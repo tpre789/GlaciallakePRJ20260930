@@ -1,4 +1,4 @@
-Scripts and processed data for the Glacial lake Microbiome Project (GlaciallakePRJ).
+Scripts and processed data for the Glacial Lake Microbiome Project.
 
 ## Metagenomic Analysis
 
@@ -17,3 +17,4 @@ Scripts and processed data for the Glacial lake Microbiome Project (GlaciallakeP
 
 - Linear mixed-effects model analysis
 - MAG–carbon-source bipartite network analysis
+- Niche value analysis of carbon substrates
