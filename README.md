@@ -13,7 +13,7 @@ Scripts and processed data for the Glacial lake Microbiome Project (GlaciallakeP
 
 ## R scripts
 
-`R_scripts/` contains scripts for:
+`R/` contains scripts for:
 
 - Linear mixed-effects model analysis
 - MAG–carbon-source bipartite network analysis
